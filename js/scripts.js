@@ -21,4 +21,4 @@ PizzaOrder.prototype.give = function(type, orderName){
     price === 25
   }
 }
-
+console.log(pizzaOrder.prototype.give)
