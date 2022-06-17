@@ -13,13 +13,12 @@ PizzaOrder.prototype.give = function(type, orderName){
 
   if(type === "plain"){
     price = 10
-}
+  }
   else if(type === "supreme"){
     price = 18
   }
-  else(){
+  else() {
     price === 25
   }
-  print
 }
 
